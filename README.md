@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Data Analysis of Kickstarters to find trends for Lousie to plan her fundraiser to be successful
+## Data Analysis of Kickstarters to find trends for Lousie to plan her fundraiser to be successful
 1. Data filters that there were 525 successful theater Kickstarters in the United States
 2. We have found that while there are only a total of 604 Kickstarter campaigns for plays in Great Britain, the "theater" category is the most successful.    The chart below shows the findings:
 ![Parent Category Outcomes Chart](https://user-images.githubusercontent.com/98566486/154874036-9cd035b8-b1fb-4c1f-ba91-663e8708794e.png)
